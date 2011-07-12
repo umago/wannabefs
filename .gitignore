@@ -1,0 +1,10 @@
+tests/
+*.swp
+*~
+*.o
+*.mod.*
+*.ko
+*.mod
+*.cmd
+modules.order
+Module.symvers
